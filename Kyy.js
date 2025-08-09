@@ -361,6 +361,6 @@ Balas dengan sindiran dan emoji marah:
     
     if (!loadSession()) {
         updateMode('pacar-tsundere', false);
-        appendMessage("Halo! Aku Freya. Chat kita akan tersimpan di sini. Pilih mode di atas untuk memulai!", 'freya');
+        appendMessage("Hello Gue Noroshi -_- Gini Amat Yang Buat Gue", 'Noroshi');
     }
 });
